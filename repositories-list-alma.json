@@ -1,0 +1,39 @@
+[
+  {
+    "Title": "title",
+    "short_title": "title max 30ish",
+    "info_type": ["Data repository", "Data source", "Registry"],
+    "repository_type": ["Controlled access repository", "Discipline‑specific repository", "Institutional repository", "General-purpose repository", "N/A"],
+    "rdm_data_type": ["Raw Reads", "Assemblies", "Single-cell RNA-seq", "Controlled Access Data", "Expression Matrices", "Count Tables", "Genetic Variants", "Genotypes", "GWAS Summary Statistics", "Microarray Data", "Density Maps", "Raw Images", "Bioimages", "3D Volume Maps", "Atomic Coordinates", "Protein Identifications", "Structure Factors", "Mass Spectra", "NMR Spectra", "Metabolite Profiles", "Experimental Metadata", "SRM/MRM Mass Spectra", "Peptide Identifications", "Study descriptions", "Supplemental data", "Sample descriptions", "N/A"],
+    "data_type": ["Raw Reads", "Assemblies", "Single-cell RNA-seq", "Controlled Access Data", "Expression Matrices", "Count Tables", "Genetic Variants", "Genotypes", "GWAS Summary Statistics", "Microarray Data", "Density Maps", "Raw Images", "Bioimages", "3D Volume Maps", "Atomic Coordinates", "Protein Identifications", "Structure Factors", "Mass Spectra", "NMR Spectra", "Metabolite Profiles", "Experimental Metadata", "SRM/MRM Mass Spectra", "Peptide Identifications", "Study descriptions", "Supplemental data", "Sample descriptions", "N/A"],
+    "study_area": ["Cellular and Molecular Imaging", "Genomics", "Metabolomics and Exposomics", "Proteomics", "Spatial Omics", "Structural Biology", "N/A"],
+    "analysis_type": ["Genomics", "Metagenomics", "Transcriptomics", "Epigenomics", "Clinical Genomics","Population Genetics", "Single-cell Transcriptomics", "Association Studies (GWAS)","Structural Biology", "Proteomics", "Cryo-EM", "Mass Spectrometry","Metabolomics", "Lipidomics", "NMR Spectroscopy","Targeted Proteomics", "Single-cell Proteomics", "BioImaging", "Spatial Omics", "Tissue Imaging", "Multiomics", "Precision Medicine", "Statistical Genetics", "X-ray Crystallography", "N/A"],
+    "disease_type": ["Cancer", "Cardiovascular Diseases", "Developmental Disorders", "Drug Development", "General", "Genetic Disorders", "Immunological Diseases", "Infectious Diseases", "Metabolic Disorders", "Neurological Disorders", "Psychiatric Disorders", "Public Health", "Rare Diseases", "Various Diseases", "N/A"],
+    "long_description": "Free text used by RDM",
+    "short_description": "Limited to around 100 characters (max 105)",
+    "search_tags": [
+      "keywords",
+      "used",
+      "for",
+      "search"
+    ],
+    "images_w_background": "filepath URL to image in GitHub from images with background folder",
+    "images_no_background": "filepath URL to image in GitHub from images without background folder",
+    "image_border": true,
+    "url": "URL for the repository/data source",
+    "provider": "what organisation provides the repo/source",
+    "European": true,
+    "related": ["related file formats - a list?"],
+    "submission_guidelines": "url to submission guidelines",
+    "rdlc_phase": ["Share", "Reuse"],
+    "topic": ["Sharing code and workflows", "Sharing human data", "N/A"],
+    "used_by_service":["RDM guidelines", "data.scilifelab.se", "OS Monitor", "Precision Medicine Portal", "Pathogens Portal"],
+    "id": "Used in field called related",
+    "cohort_classification": ["biobank_study", "cohort_infrastructure", "disease_specific_cohort", "population_cohort", "N/A"],
+    "registry_cohort_category": ["National cancer quality registry", "National quality registry", "Other quality registry", "research_cohort", "N/A"],
+    "registry centre": ["Kvalitetsregistercentrum Stockholm", "Regionala Cancercentrum i Samverkan", "Registercentrum Norr", "Registercentrum Syd", "Registercentrum Sydost", "Registercentrum Västra Götaland", "Uppsala Clinical Research Center", "N/A"],
+    "start_date": ["YYYY", "Unknown", "N/A"],
+    "metadata_source": ["SKR", "SND", "N/A"],
+    "metadata_url": "url for the metadatasource"
+  }
+]
