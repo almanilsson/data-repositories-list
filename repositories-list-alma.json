@@ -342,6 +342,47 @@
     "start_date": [""],
     "metadata_source": [""],
     "metadata_url": ""
+  },
+  {
+    "Title": "Metabolic Atlas",
+    "short_title": "Metabolic Atlas",
+    "info_type": ["Data source", "Data repository"],
+    "repository_type": [""],
+    "rdm_data_type": [""],
+    "data_type": [""],
+    "study_area": [""],
+    "analysis_type": [""],
+    "disease_type": [""],
+    "long_description": "Metabolic Atlas is a web platform integrating open-source genome scale metabolic models (GEMs) for easy browsing and analysis. The goal is to collect curated GEMs, and to bring these models closer to FAIR principles. The website provides visualisations and comparisons of the GEMs, and links to resources, algorithms, other databases, and more general software applications. Metabolic Atlas is intended to be used for applications in metabolomics, clinical chemistry, biomarker discovery and general education. In short, the vision is to create a one-stop-shop for everything metabolism related.",
+    "short_description": "",
+    "search_tags": [
+      "Systems Biology",
+      "Metabolomics",
+      "Metagenomics",
+      "Clinical Chemistry",
+      "Synthetic Biology",
+      "Model organisms",
+      "biomarker",
+      "pathway"
+    ],
+    "images_w_background": "",
+    "images_no_background": "",
+    "image_border": "",
+    "url": "https://metabolicatlas.org/",
+    "provider": "National Bioinformatics Infrastructure Sweden & Chalmers University of Technology.",
+    "European": true,
+    "related": [""],
+    "submission_guidelines": "",
+    "rdlc_phase": [""],
+    "topic": [""],
+    "used_by_service": ["OS Monitor"],
+    "id": "",
+    "cohort_classification": [""],
+    "registry_cohort_category": [""],
+    "registry centre": [""],
+    "start_date": [""],
+    "metadata_source": [""],
+    "metadata_url": "TODO - FAIRsharing doi: 10.25504/fairsharing.7jcjd0; OSM page: https://scilifelab.openaire.eu/search/dataprovider?datasourceId=fairsharing_::b887d8d5e65ac4dec3934028fe23ad72"
   }
 
 
