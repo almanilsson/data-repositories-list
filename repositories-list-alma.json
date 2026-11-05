@@ -89,7 +89,7 @@
     "analysis_type": [""],
     "disease_type": [""],
     "long_description": "The largest database for standardised bacterial phenotypic data. It includes >600 data fields, e.g. taxonomy, molecular data, and morphology. Integrates data from many sources & makes it freely accessible.",
-    "short_description": "",
+    "short_description": "The largest database for standardised bacterial phenotypic data.",
     "search_tags": [
       "ELIXIR Core Data Resource",
       "Bacdive",
@@ -134,7 +134,7 @@
     "analysis_type": [""],
     "disease_type": [""],
     "long_description": "Includes theoretical models of macromolecular structure, together with information about model coordinates, and details about assumptions, parameters, and constraints applied to simulations.",
-    "short_description": "",
+    "short_description": "Archive of theoretical models of macromolecular structure, model coordinates, assumptions and parameters.",
     "search_tags": [
       "ELIXIR Deposition Database",
       "modelarchive",
@@ -178,7 +178,7 @@
     "analysis_type": [""],
     "disease_type": ["Drug Development", "Cancer", "Various Diseases"],
     "long_description": "The central hub for data generated within the EU-OPENSCREEN network. The network collaborates with external users to develop novel molecular tool compounds and early therapeutic candidate molecules.",
-    "short_description": "",
+    "short_description": "The central hub for data generated within the EU-OPENSCREEN network.",
     "search_tags": [
       "European Chemical Biology Database",
       "ECBD",
@@ -219,7 +219,7 @@
     "analysis_type": [""],
     "disease_type": [""],
     "long_description": "The NBN Atlas is the UK’s largest repository of publicly available biodiversity data. It also provides a platform to engage, educate and inform people about the natural world.",
-    "short_description": "",
+    "short_description": "The NBN Atlas is the UK’s largest repository of publicly available biodiversity data.",
     "search_tags": [
       "National Biodiversity Network Atlas",
       "Biodiversity atlas",
@@ -349,7 +349,7 @@
     "analysis_type": [""],
     "disease_type": [""],
     "long_description": "Metabolic Atlas is a web platform integrating open-source genome scale metabolic models (GEMs) for easy browsing and analysis. The goal is to collect curated GEMs, and to bring these models closer to FAIR principles. The website provides visualisations and comparisons of the GEMs, and links to resources, algorithms, other databases, and more general software applications. Metabolic Atlas is intended to be used for applications in metabolomics, clinical chemistry, biomarker discovery and general education. In short, the vision is to create a one-stop-shop for everything metabolism related.",
-    "short_description": "",
+    "short_description": "Metabolic Atlas is a platform integrating open-source genome scale metabolic models for browsing and analysis.",
     "search_tags": [
       "Systems Biology",
       "Metabolomics",
@@ -390,7 +390,7 @@
     "analysis_type": [""],
     "disease_type": [""],
     "long_description": "In 2007, ISKME launched OER Commons, its digital public library and collaboration platform, informed by the organization's pioneering efforts in knowledge management and educational innovation. OER Commons offers a comprehensive infrastructure for curriculum experts and instructors at all levels to identify high-quality OER and collaborate around their adaptation, evaluation, and use to address the needs of teachers and learners. Diving into OER Commons is an exciting opportunity to collaborate with other educators and learners, at the forefront of a new educational era.",
-    "short_description": "",
+    "short_description": "OER Commons offers a comprehensive infrastructure for curriculum experts and instructors at all levels",
     "search_tags": [
       "Life Science",
       "Physical Geography",
