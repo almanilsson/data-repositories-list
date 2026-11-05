@@ -36,7 +36,7 @@
     "metadata_source": ["SKR", "SND", "N/A"],
     "metadata_url": "url for the metadatasource"
   },
-    {
+  {
     "Title": "BRENDA",
     "short_title": "BRENDA",
     "info_type": ["Data source"],
@@ -78,7 +78,7 @@
     "metadata_source": [""],
     "metadata_url": ""
   },
-    {
+  {
     "Title": "BacDive",
     "short_title": "BacDive",
     "info_type": ["Data source"],
@@ -123,7 +123,7 @@
     "metadata_source": [""],
     "metadata_url": ""
   },
-    {
+  {
     "Title": "ModelArchive",
     "short_title": "ModelArchive",
     "info_type": ["Data repository"],
@@ -208,7 +208,7 @@
     "metadata_source": [""],
     "metadata_url": ""
   },
-    {
+  {
     "Title": "National Biodiversity Network Atlas",
     "short_title": "NBN Atlas",
     "info_type": ["Data repository"],
@@ -270,8 +270,8 @@
       "phenotypic",
       "DNA",
       "human data",
-      "Genomics", 
-      "Clinical Genomics", 
+      "Genomics",
+      "Clinical Genomics",
       "Precision Medicine"
     ],
     "images_w_background": "images_w_background/fega-sweden-logo.png",
@@ -293,7 +293,7 @@
     "metadata_source": [""],
     "metadata_url": ""
   },
-    {
+  {
     "Title": "Swedish Pathogens Portal",
     "short_title": "Swedish Pathogens Portal",
     "info_type": ["Data source"],
@@ -302,7 +302,7 @@
     "data_type": [""],
     "study_area": [""],
     "analysis_type": [""],
-    "disease_type": [""],
+    "disease_type": ["Infectious Diseases"],
     "long_description": "Visit the Swedish Pathogens Portal in order to find publications about COVID-19/SARS-CoV-2 that involve at least one author affiliated with a Swedish research institution.",
     "short_description": "Facilitates the sharing and promotion of pandemic preparedness and infectious disease data",
     "search_tags": [
