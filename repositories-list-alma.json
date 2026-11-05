@@ -247,58 +247,6 @@
     "start_date": [""],
     "metadata_source": [""],
     "metadata_url": ""
-  },
-  {
-    "Title": "Researchdata.se",
-    "short_title": "Researchdata.se",
-    "info_type": ["Data source"],
-    "repository_type": [""],
-    "rdm_data_type": [""],
-    "data_type": [
-      "Epidemiology and Biology of Infection",
-      "Cell and Molecular Biology",
-      "Evolution and Biodiversity",
-      "Precision Medicine and Diagnostics"
-    ],
-    "study_area": [""],
-    "analysis_type": [""],
-    "disease_type": [
-      "Cardiovascular Diseases",
-      "Cancer",
-      "Infectious Diseases"
-    ],
-    "long_description": "Researchdata.se is a national web portal where you can find, share, and reuse research data from a wide range of research fields. You can also find helpful advice and recommendations on managing research data.",
-    "short_description": "",
-    "search_tags": [
-      "DORIS SND",
-      "SND",
-      "Swedish National Data Service",
-      "Bolin Centre Database",
-      "FEGA Sweden",
-      "GBIF",
-      "SciLifeLab",
-      "SITES",
-      "SBDI",
-      "researchdata.se"
-    ],
-    "images_w_background": "images_w_background/Researchdata.png",
-    "images_no_background": "",
-    "image_border": true,
-    "url": "https://researchdata.se/en",
-    "provider": "",
-    "European": "",
-    "related": [""],
-    "submission_guidelines": "",
-    "rdlc_phase": [""],
-    "topic": [""],
-    "used_by_service": ["data.scilifelab.se"],
-    "id": "",
-    "cohort_classification": [""],
-    "registry_cohort_category": [""],
-    "registry centre": [""],
-    "start_date": [""],
-    "metadata_source": [""],
-    "metadata_url": ""
   }
 
 ]
