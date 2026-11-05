@@ -207,5 +207,46 @@
     "start_date": [""],
     "metadata_source": [""],
     "metadata_url": ""
+  },
+    {
+    "Title": "National Biodiversity Network Atlas",
+    "short_title": "NBN Atlas",
+    "info_type": ["Data repository"],
+    "repository_type": [""],
+    "rdm_data_type": [""],
+    "data_type": ["Evolution and phylogeny"],
+    "study_area": [""],
+    "analysis_type": [""],
+    "disease_type": [""],
+    "long_description": "The NBN Atlas is the UK’s largest repository of publicly available biodiversity data. It also provides a platform to engage, educate and inform people about the natural world.",
+    "short_description": "",
+    "search_tags": [
+      "National Biodiversity Network Atlas",
+      "Biodiversity atlas",
+      "biodiversity data",
+      "environmental data",
+      "biodiversity",
+      "NBN Atlas",
+      "atlas"
+    ],
+    "images_w_background": "images_w_background/nbn_atlas.jpg",
+    "images_no_background": "",
+    "image_border": true,
+    "url": "https://nbnatlas.org/",
+    "provider": "",
+    "European": true,
+    "related": [""],
+    "submission_guidelines": "",
+    "rdlc_phase": [""],
+    "topic": [""],
+    "used_by_service": ["data.scilifelab.se"],
+    "id": "",
+    "cohort_classification": [""],
+    "registry_cohort_category": [""],
+    "registry centre": [""],
+    "start_date": [""],
+    "metadata_source": [""],
+    "metadata_url": ""
   }
+
 ]
