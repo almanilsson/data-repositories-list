@@ -161,48 +161,40 @@
 ## FEGA Sweden 
   {
     "type": [
-      "Data source"
+      "Repository"
     ],
     "ddls": [
       "Epidemiology and Biology of Infection",
       "Cell and Molecular Biology",
-      "Evolution and Biodiversity",
       "Precision Medicine and Diagnostics"
     ],
     "search_tags": [
-      "DORIS SND",
-      "SND",
-      "Swedish National Data Service",
-      "Bolin Centre Database",
-      "FEGA Sweden",
-      "GBIF",
-      "SciLifeLab",
-      "SITES",
-      "SBDI",
-      "researchdata.se"
+      "biomedical research",
+      "Federated European Genome-phenome Archive",
+      "FEGA",
+      "genomic data",
+      "genetic",
+      "phenotypes",
+      "phenotypic",
+      "DNA",
+      "human data"
     ],
-    "name": "Researchdata.se",
-    "description": "Researchdata.se is a national web portal where you can find, share, and reuse research data from a wide range of research fields. You can also find helpful advice and recommendations on managing research data.",
-    "thumbnail": "/img/data_sources_thumbs/Researchdata.png",
-    "url": "https://researchdata.se/en",
+    "name": "FEGA Sweden",
+    "description": "Secure archiving and sharing of genetic and phenotypic data resulting from Swedish biomedical research projects. Access to the data only will be granted after a formal application procedure.",
+    "url": "https://fega.nbis.se/",
+    "thumbnail": "/img/data_sources_thumbs/fega-sweden-logo.png",
     "data": [
-      "Clinical",
-      "Epidemiology",
       "Genes and genomes",
-      "Health",
-      "Medical",
-      "Phenotypic",
-      "Proteins and proteomes"
+      "Phenotypic"
     ],
     "thumbnail_border": true,
     "disease_type": [
-      "Cardiovascular Diseases",
+      "Genetic Disorders",
       "Cancer",
-      "Infectious Diseases"
-
+      "Various Diseases"
     ]
-  }
-## Swedish Pathogens Portal
+  },
+  ## Swedish Pathogens Portal
   {
     "target": [
       "researchers"
