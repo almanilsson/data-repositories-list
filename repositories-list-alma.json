@@ -47,7 +47,7 @@
     "analysis_type": [""],
     "disease_type": [""],
     "long_description": "A database containing information about enzymes and enzyme-ligands from all taxonomic groups. Data is extracted from primary literature, and integrated with external data and prediction algorithms.",
-    "short_description": "",
+    "short_description": "Database of enzyme function and enzyme-ligand data.",
     "search_tags": [
       "ELIXIR Core Data Resource",
       "BRENDA",
@@ -59,12 +59,12 @@
       "genome",
       "genetic"
     ],
-    "images_w_background": "images_w_background/data_sources_thumbs/BRENDA.png",
+    "images_w_background": "images_w_background/BRENDA.png",
     "images_no_background": "",
     "image_border": true,
     "url": "https://www.brenda-enzymes.org/",
-    "provider": "",
-    "European": "",
+    "provider": "Leibniz Institute DSMZ",
+    "European": "true",
     "related": [""],
     "submission_guidelines": "",
     "rdlc_phase": [""],
@@ -77,5 +77,5 @@
     "start_date": [""],
     "metadata_source": [""],
     "metadata_url": ""
-  },
+  }
 ]
